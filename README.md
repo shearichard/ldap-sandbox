@@ -10,7 +10,8 @@ Initially this project provides an LDAP Server and Client in order to investigat
 
 ## Development Environment
 
+*Mea culpa* I've used Python 3.4 in this project (which is no longer supported) because on the machine I was working I had 3.4 and 3.7 and trying to use 3.7 cause weird problem with SSL when attempting to install one the libraries I wanted to use, specifically python-ldap-test.
+
 The virtualenv on the original dev machine is called `py34ldap`. 
 
-The pip in use is `/usr/local/bin/pip3.4`.
 
