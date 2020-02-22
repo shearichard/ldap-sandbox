@@ -10,7 +10,7 @@ Initially this project provides an LDAP Server and Client in order to investigat
 
 ## Development Environment
 
-The virtualenv on the original dev machine is called `py37ldap`. 
+The virtualenv on the original dev machine is called `py34ldap`. 
 
-The pip in use is `/usr/local/bin/pip3.7`.
+The pip in use is `/usr/local/bin/pip3.4`.
 
